@@ -20,6 +20,3 @@ C:\Users\usuario\source\repos\PrimeraEntrega\obj\Debug\net6.0\refint\PrimeraEntr
 C:\Users\usuario\source\repos\PrimeraEntrega\obj\Debug\net6.0\PrimeraEntrega.pdb
 C:\Users\usuario\source\repos\PrimeraEntrega\obj\Debug\net6.0\PrimeraEntrega.genruntimeconfig.cache
 C:\Users\usuario\source\repos\PrimeraEntrega\obj\Debug\net6.0\ref\PrimeraEntrega.dll
-C:\Users\aciano\source\repos\PrimeraEntrega\obj\Debug\net6.0\PrimeraEntrega.dll
-C:\Users\aciano\source\repos\PrimeraEntrega\obj\Debug\net6.0\refint\PrimeraEntrega.dll
-C:\Users\aciano\source\repos\PrimeraEntrega\obj\Debug\net6.0\PrimeraEntrega.pdb
